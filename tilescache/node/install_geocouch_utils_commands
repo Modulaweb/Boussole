@@ -1,1 +1,0 @@
-curl -X POST -H 'Content-type: application/json' http://127.0.0.1:5984/_replicate -d '{"source":"http://vmx.iriscouch.com/apps","target":"http://127.0.0.1:5984/points", "doc_ids":["_design/gc-utils"]}'

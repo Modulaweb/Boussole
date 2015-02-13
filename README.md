@@ -1,9 +1,8 @@
 Boussole
 ========
 
-Dépôt temporaire
+Projet arrêté et plus supporté.
 
-La documentation viendra petit à petit
+Le dépôt est là pour ne pas perdre totalement le travail effectué
 
-Le code est tel quel, donc sale car écrit dans l'urgence, il sera nettoyé et de plus en plus exploitable au fil du temps.
-
+Licence GPL v3 ou plus
